@@ -6,4 +6,6 @@ Este proyecto es una aplicación web diseñada para analizar datos de anuncios d
 Funcionalidad
 El usuario marcará la casilla de preferencia de los datos que quiere visualizar. Luego, el usuario podrá ver los gráficos ya sea de dispersión o histograma de acuardo a la casilla que haya seleccionado.
 
+URL app: https://project-w3sy.onrender.com
 
+URL github repositorio: https://github.com/Alhe1712/Project
